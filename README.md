@@ -1,2 +1,2 @@
-# Linguagem-de-Programcao-2025
+# Aulas-Linguagem-de-Programacao-2025
 public class { my codes }
