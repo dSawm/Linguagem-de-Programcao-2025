@@ -1,2 +1,2 @@
 # Linguagem-de-Programcao-2025
-codes
+public class { my codes }
