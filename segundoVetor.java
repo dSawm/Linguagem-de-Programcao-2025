@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class secondVetor {
+public class segundoVetor {
 
     final static Scanner LER = new Scanner(System.in);
 
